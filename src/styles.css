@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 10px;
+}
+button {
+  margin-top: 5px;
+}
+form {
+  margin-bottom: 10px;
+}
+.rfe-form__row {
+  margin-bottom: 5px;
+}
+b {
+  margin-right: 5px;
+}
